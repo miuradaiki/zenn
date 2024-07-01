@@ -25,9 +25,7 @@ published: false
 # 全体的な所感
 
 - やはりAI関連のトピックが熱い🔥
-  - 基調講演でもAIのトピックがメイン
-    - JRリニアでの活用事例、電通（[ムゲンエーアイ](https://www.dentsudigital.co.jp/news/release/services/2022-12190-000064)）での活用事例
-    - [Amazon Bedrock](https://aws.amazon.com/jp/bedrock/)についての話題
+  - [Amazon Bedrock](https://aws.amazon.com/jp/bedrock/)など、基調講演でもAIのトピックがメイン
 - 150以上の多様なセッションがあるが、どれもかなり人気で満席が目立つ
     - なるべく早めの予約が吉です（キャンセルも可能）
     - 私は2日前に参加申し込みしましたが、気になるセッションはことごとく満席でした

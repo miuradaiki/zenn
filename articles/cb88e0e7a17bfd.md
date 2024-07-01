@@ -3,6 +3,7 @@ title: "[AWS Summit Japan 2024 現地レポ]プロンプトエンジニアリン
 emoji: "🥷"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["AWS", "Tech", "event", "Idea"]
+publication_name: sun_asterisk
 published: false
 ---
 
@@ -18,6 +19,8 @@ published: false
 - 〜14:00　お昼休憩をしつつ各ブース徘徊🚶
 
 （午後から私用があり半日ほどの滞在でした。。）
+
+![](/images/article_cb88e0e7a17bfd/IMG_3337.jpg)
 
 # 全体的な所感
 
@@ -41,6 +44,11 @@ published: false
 - 飲み物は不要そうです。基調講演を見に行く時間帯にはペットボトルのドリンクが配られていました。また、お弁当配布時と企業ブースでも貰ったため、自前で持っていくと逆に荷物になるかもしれません
 - セッションの間が20分くらいしかないため、予定を詰めすぎると大変です。自分はお昼ご飯のタイミングに困りました
 
+![](/images/article_cb88e0e7a17bfd/IMG_3341.jpg)
+*写ってはないですが、左側にももう1つ大きい会場がありました。*
+
+![](/images/article_cb88e0e7a17bfd/IMG_3385.jpg)
+*なんとSnowball Edgeの現物が！！*
 
 # セッションについて
 
@@ -290,6 +298,9 @@ https://docs.anthropic.com/ja/docs/long-context-window-tips
 
 セッションの内容までご紹介したため少し長くなりましたが、最後までお読みいただきありがとうございました！！
 
-[おまけ]
+# おまけ
 現地参加された方は全体アンケートに答えると25ドル分の販促クレジットが貰えます。
-AWS Summitに行き、使ってみたいサービスを見かけたらこれを利用して試してみるのも良さそうですね。
+AWS Summitに行き、使ってみたいサービスを見かけたらこれを利用して試してみるのも良さそうですね！
+
+![](/images/article_cb88e0e7a17bfd/IMG_3386.jpg)
+*最上部に載せた写真の看板裏にはメッセージが（こういうさりげないこだわりが好き）*

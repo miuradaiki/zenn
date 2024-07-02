@@ -4,7 +4,7 @@ emoji: "🥷"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["AWS", "Tech", "event", "Idea"]
 publication_name: sun_asterisk
-published: false
+published: true
 ---
 
 # 当日の動き
